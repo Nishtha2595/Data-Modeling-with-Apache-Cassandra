@@ -19,4 +19,4 @@ json Jupyter notebook and python 3 are needed to run the notebooks and python sc
 
 ## Description of Files:
 **Project_1B_ Project_Template.ipynb** : contains all the project data modelling code and ETL <br>
-**event_datafile_new.csv**: dataset to create a denormalized dataset
+**event_datafile_new.csv**: new CSV file in Python with processed denormalized datasets 
