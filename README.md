@@ -10,11 +10,11 @@ event_data/2018-11-08-events.csv <br>
 event_data/2018-11-09-events.csv
 
 ## Prerequisites
-cassandra
-pandas
-csv
-os
-numpy
+cassandra <br>
+pandas <br>
+csv <br>
+os <br>
+numpy <br>
 json Jupyter notebook and python 3 are needed to run the notebooks and python scripts.
 
 ## Description of Files:
